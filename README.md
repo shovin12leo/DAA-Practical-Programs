@@ -1,2 +1,5 @@
-# DAA-Practical-Programs
-Contains  6 Practical Program  Using Python  along with Alogrithm and Time complexity
+#Practical 01
+A]Program-01: Swa
+B]program-02
+C]program-03
+D]program-04
