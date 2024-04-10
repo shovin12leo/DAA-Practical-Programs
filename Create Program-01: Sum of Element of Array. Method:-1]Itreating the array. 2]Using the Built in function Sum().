@@ -1,0 +1,15 @@
+#METHOD01
+
+def _sum(arr):
+    sum=0
+    for i in arr:
+        sum +=i
+    return sum
+arr=[20,3,14,15,45,18,25]
+ans=_sum(arr)
+print("Sum of the array is",ans)
+
+#METHOD02
+arr=[20,3,14,15,45,18,25]
+ans=sum(arr)
+print("Sum of the array is ",ans)
